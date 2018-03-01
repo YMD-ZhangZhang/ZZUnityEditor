@@ -7,4 +7,4 @@ FindAssetInProject:
 
 DependFindTexture:
 
-![Image text](https://github.com/YMD-ZhangZhang/ZZUnityEditor/raw/master/Readme/readme_pic_2.png)
+![Image text](https://github.com/YMD-ZhangZhang/ZZUnityEditor/raw/master/Readme/readme_pic_2.jpg)
