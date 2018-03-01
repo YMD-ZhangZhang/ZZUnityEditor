@@ -47,6 +47,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EditorWindow\DependFindTexture.cs" />
     <Compile Include="EditorWindow\FindAssetInProject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Util\EnumerableExtension.cs" />

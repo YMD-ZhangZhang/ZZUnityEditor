@@ -10,7 +10,7 @@ using System.Reflection;
 [ExecuteInEditMode]
 public class FindAssetInProject : EditorWindow
 {
-    private const string ENTRANCE = "GameWinner/Util/Find Asset In Project";
+    private const string ENTRANCE = "ZZUnityEditor/Find Asset In Project";
 
     class FindResult
     {
